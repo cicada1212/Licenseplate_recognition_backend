@@ -1,0 +1,34 @@
+<annotation>
+	<folder>TRUCK</folder>
+	<filename>2-110.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1158</xmin>
+			<ymin>208</ymin>
+			<xmax>1235</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1040</xmin>
+			<ymin>1</ymin>
+			<xmax>1696</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

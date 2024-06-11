@@ -1,0 +1,7 @@
+train: ./TRUCKdata/train.txt  # truck_annotation.py生成的train.txt的路径
+val: ./TRUCKdata/val.txt   # truck_annotation.py生成的val.txt的路径
+test: ./TRUCKdata/test.txt   # truck_annotation.py生成的val.txt的路径
+
+# Classes
+nc: 5  # number of classes
+names: ['plate','head', 'body_num','aiv_plate','aiv_body_num']   # 识别目标种类

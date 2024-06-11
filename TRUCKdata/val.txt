@@ -1,0 +1,6 @@
+/home/aistudio/work/TRUCKdata/images/2-050.jpg
+/home/aistudio/work/TRUCKdata/images/2-402.jpg
+/home/aistudio/work/TRUCKdata/images/1-031.jpg
+/home/aistudio/work/TRUCKdata/images/2-389.jpg
+/home/aistudio/work/TRUCKdata/images/1-063.jpg
+/home/aistudio/work/TRUCKdata/images/2-140.jpg
